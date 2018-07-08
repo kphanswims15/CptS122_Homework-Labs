@@ -1,0 +1,3 @@
+﻿  Simulator.cpp
+c:\users\phanl\documents\visual studio 2015\projects\phan_pa7\phan_pa7\simulator.cpp(323): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  phan_pa7.vcxproj -> C:\Users\phanl\Documents\Visual Studio 2015\Projects\phan_pa7\Debug\phan_pa7.exe

@@ -1,0 +1,10 @@
+﻿  main.cpp
+  Generating Code...
+  Compiling...
+  StudentNode.cpp
+  StudentList.cpp
+c:\users\phanl\documents\visual studio 2015\projects\phan_pa5\pa5_phan\studentlist.cpp(92): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+  RunApp.cpp
+  Generating Code...
+  pa5_phan.vcxproj -> C:\Users\phanl\Documents\Visual Studio 2015\Projects\phan_pa5\Debug\pa5_phan.exe

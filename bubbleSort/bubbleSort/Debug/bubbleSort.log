@@ -1,0 +1,15 @@
+﻿  bubbleSort.cpp
+c:\users\phanl\documents\visual studio 2015\projects\bubblesort\bubblesort\bubblesort.cpp(44): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\algorithm(1527): error C2064: term does not evaluate to a function taking 0 arguments
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\algorithm(1535): note: see reference to function template instantiation 'void std::_Generate<int*,_Fn0>(_FwdIt,_FwdIt,_Fn0)' being compiled
+          with
+          [
+              _Fn0=int,
+              _FwdIt=int *
+          ]
+  c:\users\phanl\documents\visual studio 2015\projects\bubblesort\bubblesort\bubblesort.cpp(52): note: see reference to function template instantiation 'void std::generate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>,int>(_FwdIt,_FwdIt,_Fn0)' being compiled
+          with
+          [
+              _FwdIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>,
+              _Fn0=int
+          ]
